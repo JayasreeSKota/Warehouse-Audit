@@ -1,5 +1,9 @@
 # Warehouse-Audit
 
+![ alt text ](https://img.shields.io/badge/powerapps-blueviolet?logo=powerapps)
+![ alt text ](https://img.shields.io/badge/microsoftsharepoint-turquoise?logo=microsoftsharepoint)
+
+
 Welcome to Warehouse Audit! 📦🔍
 
 Streamline audits, optimize processes, and boost efficiency with this game-changing PowerApps project for cloud inventory management. 💻🚀
